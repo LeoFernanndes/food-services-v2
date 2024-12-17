@@ -1,3 +1,6 @@
 [submodule "food-services-fastapi-backend"]
 	path = food-services-fastapi-backend
 	url = https://github.com/LeoFernanndes/food-services-fastapi-backend
+[submodule "food-services-next-frontend"]
+	path = food-services-next-frontend
+	url = https://github.com/LeoFernanndes/food-services-next-frontend
