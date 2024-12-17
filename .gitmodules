@@ -1,0 +1,3 @@
+[submodule "food-services-fastapi-backend"]
+	path = food-services-fastapi-backend
+	url = https://github.com/LeoFernanndes/food-services-fastapi-backend
